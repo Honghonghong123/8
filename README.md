@@ -1,2 +1,2 @@
-# 开始成为GitHub一员
+# Become a new member of GitHub
 Novice learning journal
